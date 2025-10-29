@@ -42,7 +42,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e recursos:
 - [Solidity](https://docs.soliditylang.org/)
 - [Metamask](https://metamask.io/)
 - [Alchemy](https://www.alchemy.com/)
-- [Giphy](https://www.alchemy.com/)
 
 
 ## 🚀 Como executar
