@@ -41,7 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e recursos:
 - [Tailwind](https://tailwindcss.com/)
 - [Solidity](https://docs.soliditylang.org/)
 - [Metamask](https://metamask.io/)
-- [Alchemy](https://www.alchemy.com/)
 - [Giphy](https://www.alchemy.com/)
 
 
